@@ -14,7 +14,11 @@
 </div>
 
 ### Who am I?
-- A neuroinformatics enthusiast, graduated from biotechnology program and saililing onwwards wherever bioinformatics and neuroscience meet. hoping one day that I could work on human memory and cognition, and maybe one day we can transfer and store human memories in a retainable shape.
+- A neuroinformatics enthusiast, graduated from biotechnology program and sailing onwwards wherever bioinformatics and neuroscience meet. Currently persuing a master scholarship abroad in the previously mentioned fields, let's hope I get accepted.
+### Life end goals?
+- Hoping one day that I could work on human memory and cognition, and maybe one day we can transfer and store human memories in a retainable shape.
+- Teach generations of students as a good and well-educated professor.
+- Find novel mechanisms for Alzheimer Disease by studying it with Omics.
 ### What am I doing here?
 - I am here because I want to encourage myself to code more and work on further projects in the field of computational neuroscience and bioinformatics. Possibly show others what I am working on which might offer collaboration opportunities.
 ### Ongoing projects?
