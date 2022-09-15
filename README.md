@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/siefeldin-sobih-786370147/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="discordapp.com/users/Sword Of Faith#9706">
+  <a href="https://discord.com/users/Sword%20Of%20Faith#9706">
     <img src="https://img.shields.io/badge/-Discord-blueviolet?style=for-the-badge&logo=twitter&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://twitter.com/SiefElD48286998">
