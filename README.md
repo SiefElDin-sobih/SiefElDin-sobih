@@ -14,9 +14,10 @@
 </div>
 
 ### Who am I?
-
+- A neuroinformatics enthusiast, graduated from biotechnology program and saililing onwwards wherever bioinformatics and neuroscience meet. hoping one day that I could work on human memory and cognition, and maybe one day we can transfer and store human memories in a retainable shape.
 ### What am I doing here?
-
+- I am here because I want to encourage myself to code more and work on further projects in the field of computational neuroscience and bioinformatics. Possibly show others what I am working on which might offer collaboration opportunities.
 ### Ongoing projects?
-
+- I will start adding them after November.
 ### Completed projects?
+- I will start adding them after November.
