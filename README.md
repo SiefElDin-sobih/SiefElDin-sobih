@@ -12,3 +12,11 @@
   </a>
 </div>
 </div>
+
+### Who am I?
+
+### What am I doing here?
+
+### Ongoing projects?
+
+### Completed projects?
