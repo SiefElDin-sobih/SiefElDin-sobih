@@ -25,3 +25,8 @@
 - I will start adding them after November.
 ### Completed projects?
 - I will start adding them after November.
+
+### What am I currently doing?
+- Finishing CS50 in Python.
+- Finishing week 3 of Practical ML with Python.
+- Waiting patiently for my military period to finish(November 25, 2022) so I can apply for master scholarships and travel abroad or find a nice TA position or maybe a data analyst spot at a good company.
